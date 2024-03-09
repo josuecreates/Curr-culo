@@ -13,7 +13,4 @@ Este é o meu currículo interativo, desenvolvido em HTML e CSS. Ele destaca min
 - Experiência: Nenhuma, em busca da primeira oportunidade
 
 ## Foco de Estudo
-- Foco de estudo em UX/UI Design, Experiência do Usuário e criação de dashboard com Python, com uso de Qt Designer/PyQt5
-
-## Link para o Currículo Interativo
-[Visualize meu currículo interativo](https://bit.ly/m/Josué-Messias)
+- Foco de estudo em UX/UI Design Interface, Experiência do Usuário e criação de dashboard com Python, com uso de Qt Designer/PyQt5
